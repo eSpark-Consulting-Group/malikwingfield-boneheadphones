@@ -1,2 +1,4 @@
-Record=TopLevelDocument|FileName=Bluetooth_SOC.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Bluetooth_SOC.SchDoc|FileName=Touch_Amplifier.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=Top_Sheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_Bluetooth_SOC|SchDesignator=U_Bluetooth_SOC|FileName=Bluetooth_SOC.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Bluetooth_SOC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_Power _Sheet|SchDesignator=U_Power _Sheet|FileName=Power _Sheet.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power _Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_Touch_Amplifier|SchDesignator=U_Touch_Amplifier|FileName=Touch_Amplifier.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Touch_Amplifier.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
